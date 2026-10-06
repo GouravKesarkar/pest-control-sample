@@ -1,6 +1,6 @@
 # SafeHome Pest Control
 
-> Local pest control company serving homes, shops and offices in Your City, India. Free inspection, fixed quotes, written termite warranty. Staff speak English, Hindi and Marathi.
+> Local pest control company serving homes, shops and offices in Your City, India. Free inspection, fixed quotes, written termite warranty. Staff speak English and Marathi.
 
 ## Services
 - Cockroach control: gel baiting and spray treatment
@@ -20,3 +20,11 @@
 
 ## Pages
 - [Home, services, FAQ and booking](https://www.example.in/): everything on one page
+
+## Sample starting prices (INR, confirm on WhatsApp)
+- Cockroach one-time treatment: from 1,650 (4 months validity)
+- Cockroach AMC, 12 months with 3 treatments: from 3,850 (1 BHK) to 6,450 (3 BHK row house)
+- Bed bugs, ticks, fleas: from 2,850 (customer vacates 4 hours)
+- Termite control: from 3,500, after inspection
+- Rodent control: from 1,500
+- Commercial AMC: from 3,000 per month
