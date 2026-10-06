@@ -1,0 +1,22 @@
+# SafeHome Pest Control
+
+> Local pest control company serving homes, shops and offices in Your City, India. Free inspection, fixed quotes, written termite warranty. Staff speak English, Hindi and Marathi.
+
+## Services
+- Cockroach control: gel baiting and spray treatment
+- Termite control: pre- and post-construction, with written warranty
+- Bed bug treatment: mattresses, beds, furniture
+- Mosquito and fly control: fogging and larvicide
+- Rodent control: trapping, baiting, sealing entry points
+- Ant and spider control
+
+## Key facts
+- Inspection: free, with a fixed quote before work starts
+- Typical treatment time: 1 to 3 hours
+- Products: low-odour, approved by the Central Insecticides Board (CIB&RC)
+- Hours: Monday to Saturday, 9 am to 7 pm
+- Phone / WhatsApp: +91 98000 00000
+- Address: Shop No. 1, Main Road, Your City
+
+## Pages
+- [Home, services, FAQ and booking](https://www.example.in/): everything on one page
